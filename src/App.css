@@ -1,0 +1,12 @@
+.App {
+  background-color: #E3D9CF;
+}
+
+.App-logo {
+  height: 120px;
+  /* width: 80px; */
+  margin-top: 2%;
+  background-image: url(./logo.svg);
+  background-repeat: no-repeat;
+  background-size:contain;
+}
